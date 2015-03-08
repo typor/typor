@@ -1,2 +1,2 @@
 # TYPOR
-## typor install guide
+## Installation
